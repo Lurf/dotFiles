@@ -1,0 +1,19 @@
+add_newline = true
+
+[character]
+success_symbol = "[ ](bold #9AB4D3)"
+error_symbol = "[ ](bold #D3615A)"
+
+[directory]
+style = "#FF958F"
+format = "[ $path](#FF958F) "
+
+[git_branch]
+style = "#FFD908"
+symbol = " "
+
+[git_status]
+style = "#A1D36C"
+
+[ruby]
+format = "[ $version](#7499D3) "
